@@ -81,7 +81,10 @@ i {
 }
 
 i:hover{
-    color:hsl(300, 69%, 71%) ;    
+    border-color:hsl(300, 69%, 71%) ; 
+    transform: scale(1.1);   
+    color: hsl(300, 69%, 71%);
+
 }
 
 @media(max-width: 768px) {
