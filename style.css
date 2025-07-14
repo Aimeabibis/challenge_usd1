@@ -56,6 +56,8 @@ body {
     font-size: 1.2rem;
     cursor: pointer;
     transition: 0.3s ease-in-out;
+    box-shadow: 0 5px 10px rgba(0, 0, 2);
+    transition: all 0.3s ease;
 }
 .right button:hover {    
     background-color: hsl(300, 69%, 71%);
